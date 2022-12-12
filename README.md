@@ -1,4 +1,3 @@
-<h3>
-Follow me<br>
-Star all my repositories
-</h3>
+ <h1>
+Follow me because I am the best programmer
+</h1>
